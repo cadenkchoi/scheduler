@@ -22,7 +22,7 @@ Testing:
 
 Install dependencies with `npm install`.
 
-Follow the instructions in ([scheduler-api](https://github.com/cadenkchoi/scheduler-api/blob/master/README.md)) and return back here
+Follow the instructions in [scheduler-api](https://github.com/cadenkchoi/scheduler-api/blob/master/README.md) and return back here
 
 ## Running Webpack Development Server
 
